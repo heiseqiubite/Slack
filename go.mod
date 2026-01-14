@@ -24,7 +24,7 @@ require (
 	github.com/parsiya/golnk v0.0.0-20221103095132-740a4c27c4ff
 	github.com/projectdiscovery/nuclei/v3 v3.4.4
 	github.com/projectdiscovery/utils v0.4.19
-	github.com/qiwentaidi/clients v0.0.0-20250702115236-129e21f47c9d
+	github.com/qiwentaidi/clients v0.0.3
 	github.com/qiwentaidi/gonmap v0.0.1
 	github.com/shirou/gopsutil/v3 v3.24.2
 	github.com/sijms/go-ora/v2 v2.8.22
